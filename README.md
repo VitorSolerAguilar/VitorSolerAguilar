@@ -8,8 +8,7 @@
    
   <div>  
     <a href="https://www.linkedin.com/in/vitor-soler-0037b1201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitorsoleraguilar49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
     
-  <a href = "mailto:vitorsoleraguilar49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-    <br>
   ![Snake animation](https://github.com/VitorSolerAguilar/VitorSolerAguilar/blob/output/github-contribution-grid-snake.svg)
 </div>
