@@ -5,8 +5,8 @@
 <div align="left">
   <a href="https://github.com/VitorSolerAguilar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSolerAguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSolerAguilar&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSolerAguilar&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
    
   <div>  
