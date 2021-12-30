@@ -1,6 +1,6 @@
 ### Olaa, meu nome é Vitor Soler
 📚 Atualmente estou cursando "Desenvolvimento de Sistemas"(ETEC) <br>
-🔭 Conhecimento intermediário em .NET
+🔭 Conhecimento intermediário em .NET <br>
 🤓 Atualmente estudando Java
 
 <div align="left">
