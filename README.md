@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VitorSoler49)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorsoleraguilar49@gmail.com)
 
-<div align="center">
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsoleraguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoleraguilar&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
