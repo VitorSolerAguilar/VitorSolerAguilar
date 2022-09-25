@@ -2,7 +2,7 @@
 
 📚 Atualmente estou cursando "Desenvolvimento de Sistemas"(ETEC) <br>
 🔭 Conhecimentos intermediários em .NET, Git e Github <br>
-✨ Venho estudando Banco de Dados(MySQL), Asp.Net Core(MVC) e Web API(.NET 6)
+✨ Venho estudando Banco de Dados(MySQL), Asp.Net Core(MVC) e Web API(.NET 6)...
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsoleraguilar49@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.soler_/)
