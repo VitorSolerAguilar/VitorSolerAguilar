@@ -1,4 +1,4 @@
-### Olá, Meu Nome é Vitor Soler 
+### Olá, Meu Nome é Vitor Soler ![GitHub followers](https://img.shields.io/github/followers/VitorSolerAguilar?style=social)
 
 📚 Atualmente estou cursando "Desenvolvimento de Sistemas"(ETEC) <br>
 🔭 Conhecimentos intermediários em .NET, Git e Github <br>
