@@ -1,4 +1,4 @@
-### Olá, Meu Nome é Vitor Soler <img alt="GitHubCounter" src="https://img.shields.io/github/followers/VitorSolerAguilar.svg?style=social&label=Follow&maxAge=2592000"/>
+### Olá, Meu Nome é Vitor Soler 
 
 📚 Atualmente estou cursando "Desenvolvimento de Sistemas"(ETEC) <br>
 🔭 Conhecimentos intermediários em .NET, Git e Github <br>
