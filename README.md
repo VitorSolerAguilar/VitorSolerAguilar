@@ -1,6 +1,6 @@
 ### Olá, Meu Nome é Vitor Soler Aguilar ![GitHub followers](https://img.shields.io/github/followers/VitorSolerAguilar?style=social)
 
-📚 Atualmente estou cursando Desenvolvimento de Sistemas na Etec Martinho Di Ciero <br>
+<!-- 📚 Atualmente estou cursando Desenvolvimento de Sistemas na Etec Martinho Di Ciero <br> -->
 🔭 Conhecimentos intermediários em .NET, Git e Github <br>
 ✨ Venho estudando Banco de Dados(MySQL) e Web API(.NET 6).
 
