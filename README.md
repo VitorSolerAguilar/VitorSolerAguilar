@@ -1,5 +1,6 @@
 ### :point_down: Olá, meu nome é Vitor Soler Aguilar :wave:
 <a href="https://www.linkedin.com/in/vitorsoleraguilar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="vitorsoleraguilar49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSolerAguilar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSolerAguilar&layout=compact&theme=tokyonight)
