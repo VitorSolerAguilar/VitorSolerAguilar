@@ -11,7 +11,3 @@
     <img src="https://icongr.am/devicon/git-original.svg?size=70&color=currentColor">
     <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=currentColor">
 </div>
-
-##
-
-  ![Snake animation](https://github.com/VitorSolerAguilar/VitorSolerAguilar/blob/output/github-contribution-grid-snake.svg)
